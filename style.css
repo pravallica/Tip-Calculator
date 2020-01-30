@@ -3,13 +3,13 @@ html {
     margin: 0px;
     width: 100%;
     height: 1000vh;
-    background-color: #e3e1e1;
-    color: #824ac3;
+    background-color: #fce7ed;
+    color: #ffffff ;
     font-size: 20px;
 }
 
 .container {
-    background-color: #81d4f9;
+    background-color: #c295d8;
     width: 30%;
     margin: 3% auto;
     padding: 30px 50px;
@@ -31,7 +31,7 @@ h2 {
 input,
 select {
     font-size: 18px;
-    color: #824ac3;
+    color: #c295d8;
 }
 
 input[type=submit] {
