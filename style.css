@@ -1,0 +1,50 @@
+body,
+html {
+    margin: 0px;
+    width: 100%;
+    height: 1000vh;
+    background-color: #e3e1e1;
+    color: #824ac3;
+    font-size: 20px;
+}
+
+.container {
+    background-color: #81d4f9;
+    width: 30%;
+    margin: 3% auto;
+    padding: 30px 50px;
+    border-radius: 20px;
+}
+
+
+
+table {
+    border-spacing: 0px 20px;
+   text-align: center;
+    margin: 0 auto;
+    width: 60%
+}
+h2 {
+    text-align: center;
+}
+
+input,
+select {
+    font-size: 18px;
+    color: #824ac3;
+}
+
+input[type=submit] {
+    padding: 10px;
+    margin: 5% 40%;
+    border-radius: 5px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#display {
+    font-size: 30px;
+    text-align: center;
+    display:none;
+}
+
